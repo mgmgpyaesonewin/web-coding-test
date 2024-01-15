@@ -44,6 +44,7 @@ This project involves developing a web-based application that simulates a digita
 ## Documentation and Submission
 - Include a README with setup and running instructions
 - Document any assumptions or design decisions
+- Push codes to a publi github repo
 
 ## Evaluation Criteria
 - Functionality and Completeness
